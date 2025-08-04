@@ -1,0 +1,43 @@
+* {
+    border: 0;
+}
+
+fieldset {
+    text-align: center;
+    padding: 300px;
+}
+   
+label {
+    display: inline-block;
+    width: 150px;
+    margin-bottom: 10px;
+    vertical-align: text-top;
+    background-color: rgb(231, 240, 247);
+    border-radius: 400px;
+    color: #5e5e5e;
+}
+
+input {
+    width: 250px; 
+    height: 25px; 
+    padding: 5px; 
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fdfdfdc7;
+}
+
+legend{
+    color: #ffffff;
+    position: relative;
+    top: 150px;
+    font-size: 40px;
+}
+
+body{
+    background-color: #000000;
+    background-image: url(img/balelaboys.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
